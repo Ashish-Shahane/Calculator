@@ -1,3 +1,3 @@
 # Calculator
 
-Live Preview:-  https://ashish-shahane.github.io/Calculator/
+Live Preview:- https://ashish-shahane.github.io/Calculator/
