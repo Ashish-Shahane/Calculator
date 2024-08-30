@@ -12,14 +12,14 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url(i1.jpg);
+    background: url(i3.jpg);
     background-size: cover;
 } 
 .calculator{
     padding: 20px;
     border: 2px solid #000;
-    border-radius: 16px;
-    box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.8);
+    border-radius: 30px;
+    box-shadow: 10px 30px 45px rgba(0, 0, 0, 0.8);
     background: rgba(0, 0, 0, 0..5);
 }
 input{
